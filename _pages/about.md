@@ -64,7 +64,7 @@ Previously, I have gained hands-on experience in data center operations, inciden
       <div class="timeline-card">
         <div>
           <h3>Laboratory Assistant</h3>
-          <p>📍 Universitas Gunadarma</p>
+          <p>📍 Gunadarma University</p>
         </div>
         <span>Feb 2016 - Sep 2017</span>
       </div>
@@ -82,7 +82,7 @@ Previously, I have gained hands-on experience in data center operations, inciden
           <h3>MSc in Management Information System </h3>
           <p>📍 Gunadarma University</p>
         </div>
-        <span>Sep 2025 - present </span>
+        <span>Sep 2025 - Present </span>
       </div>
     </div>
 
