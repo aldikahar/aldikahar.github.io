@@ -10,7 +10,7 @@ I am a software engineer with professional experience in application development
 My work primarily involves developing and deploying Application Programming Interfaces (API), managing distributed systems, and ensuring seamless integration between internal applications such as the Sistem Pertukaran Data Perkara Pidana Berbasis Teknologi Informasi (SPPT-TI). I am also involved in monitoring and supporting Case Management Systems (CMS) to ensure system reliability and operational efficiency.
 
 Previously, I have gained hands-on experience in data center operations, incident management, network administration, and system support. I have worked with various technologies including Laravel framework, SQL databases, AWS Cloud, and networking (Cisco routing and switching). My background also includes experience in managing servers, infrastructure systems, and supporting mission-critical applications.
-
+<img src="/images/profile.jpg" width="150">
 <div class="timeline-container">
 
   <div class="timeline-column">
