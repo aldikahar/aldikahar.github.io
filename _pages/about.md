@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Aldi Kahar Ramadhan / Software Engineer"
+title: ""
 permalink: /
 ---
 
